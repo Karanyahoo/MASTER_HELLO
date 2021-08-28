@@ -1,0 +1,2 @@
+echo karan
+mkdir /opt/
