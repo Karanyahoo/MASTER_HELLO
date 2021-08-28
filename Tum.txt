@@ -1,3 +1,5 @@
+#this is the edited file
+#Comments have been added
 echo karan
 mkdir /opt/
 mkdir var

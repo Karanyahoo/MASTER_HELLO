@@ -1,1 +1,2 @@
-"echo karan" 
+echo "karan"
+#The echo command syntex was wrong 
