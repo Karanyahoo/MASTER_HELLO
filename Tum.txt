@@ -1,0 +1,4 @@
+echo karan
+mkdir /opt/
+mkdir var
+touch toil.sh
